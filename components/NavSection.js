@@ -41,7 +41,9 @@ const NavSection = () => {
       </section>
       <section className="relative flex sm:w-[100vw] w-[80vw] mx-24 sm:mx-0 items-center bg-white shadow-2xl z-50">
         <div className="sm:mx-auto lg:mx-auto md:mx-auto m-0">
+    <Link href='/'>
           <Image src="/images/logo.png" alt="logo" width={85} height={85} />
+    </Link>
         </div>
 
         <div className="ml-16 ">
