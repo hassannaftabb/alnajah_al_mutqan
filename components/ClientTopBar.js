@@ -24,7 +24,7 @@ const ClientTopBar = () => {
           <li>
             <a
               className="block transition-colors hover:text-gray-700"
-              href="/collections/shirts"
+              href="#"
             >
               Clients
             </a>
