@@ -6,7 +6,7 @@ import StayinTouch from '../components/StayinTouch';
 
 const clients = () => {
   return (
-    <section className="mt-[29%] sm:mt-0">
+    <section className="mt-[28%] sm:mt-0">
       <ClientTopBar />
       <section className="flex flex-col w-[80vw] text-center mx-auto mb-12 mt-12">
         <h1 className="text-5xl text-[#F98C25] mb-12 font-serif">
