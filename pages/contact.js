@@ -8,7 +8,7 @@ const Contact = () => {
     toast.success('Message Sent!');
   };
   return (
-    <div className="h-[200vh] mt-[29%] sm:mt-0">
+    <div className="h-[200vh] mt-[28%] sm:mt-0">
       <Toaster />
       <ContactTopBar />
       <section className="flex flex-col w-[80vw] text-center mx-auto mb-12 mt-12">
