@@ -9,7 +9,7 @@ import StayinTouch from '../components/StayinTouch';
 
 const manpower = () => {
   return (
-    <section className="mt-[29%] sm:mt-0">
+    <section className="mt-[28%] sm:mt-0">
       <ManPowerTopBar />
       <ManpowerSolutions />
       <Heading title="Construction & Industrial Work" />
